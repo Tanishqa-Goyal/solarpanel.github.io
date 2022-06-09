@@ -1,1 +1,1 @@
-# solarpanel.github.io
+# solar_power
